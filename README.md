@@ -1,1 +1,1 @@
-# Galaxy-discussion
+# Galaxy
