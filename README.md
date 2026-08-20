@@ -1,2 +1,3 @@
 # Galaxy discussion
 open
+close
